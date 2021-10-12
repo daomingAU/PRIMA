@@ -15,6 +15,6 @@ This repo contains 3 graph tasks and 5 family tree tasks under the multi-task re
 - An example of the command for training is "jac-run NLM_MBRL.py". 
 - "model.weights" in the folder of "saved_model" is the pre-trained model weights. An example of testing is "jac-run NLM_MBRL.py --task_mode=test".
 
-Reference:
+## Reference:
 - [Neural Logic Machines](https://github.com/google/neural-logic-machines)
 - [MuZero](https://github.com/werner-duvaud/muzero-general)
