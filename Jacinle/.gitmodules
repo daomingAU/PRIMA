@@ -1,0 +1,27 @@
+[submodule "vendors/pytorch_reservoir/torch_sampling"]
+	path = vendors/pytorch_reservoir/torch_sampling
+	url = https://github.com/LeviViana/torch_sampling
+[submodule "vendors/AdvancedIndexing-PyTorch"]
+	path = vendors/AdvancedIndexing-PyTorch
+	url = https://github.com/vacancy/AdvancedIndexing-PyTorch
+[submodule "vendors/SceneGraphParser"]
+	path = vendors/SceneGraphParser
+	url = https://github.com/vacancy/SceneGraphParser
+[submodule "vendors/Synchronized-BatchNorm-PyTorch"]
+	path = vendors/Synchronized-BatchNorm-PyTorch
+	url = https://github.com/vacancy/Synchronized-BatchNorm-PyTorch
+[submodule "vendors/PreciseRoIPooling"]
+	path = vendors/PreciseRoIPooling
+	url = https://github.com/vacancy/PreciseRoIPooling
+[submodule "vendors/JacMLDash"]
+	path = vendors/JacMLDash
+	url = https://github.com/vacancy/JacMLDash
+[submodule "vendors/pygco/pygco"]
+	path = vendors/PyGCO/pygco
+	url = https://github.com/vacancy/pygco
+[submodule "vendors/PyPatchMatch"]
+	path = vendors/PyPatchMatch
+	url = https://github.com/vacancy/PyPatchMatch
+[submodule "vendors/PyGCO/pygco_inpaint"]
+	path = vendors/PyGCO/pygco_inpaint
+	url = https://github.com/vacancy/gco_python
